@@ -1,0 +1,12 @@
+{
+  "name": "BETPRES SiteDesk Mobile",
+  "short_name": "SiteDesk",
+  "description": "Terénne zápisy pracovníkov, vád, nedorobkov a denných úloh na stavbe.",
+  "lang": "sk",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#eef3f8",
+  "theme_color": "#092f57"
+}
