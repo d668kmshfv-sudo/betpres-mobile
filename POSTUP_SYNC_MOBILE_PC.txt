@@ -1,0 +1,24 @@
+BETPRES SiteDesk Mobile 0.9 – terénny modul
+
+ČO MOBILNÁ APLIKÁCIA UMOŽŇUJE
+- zapísať denný počet pracovníkov podľa firiem,
+- pridať vadu alebo nedorobok s miestom, firmou, zodpovednou osobou, termínom a fotografiou,
+- pridať dennú úlohu, poznámku, kontrolu, BOZP zistenie alebo požiadavku na materiál,
+- pracovať bez internetu a zmeny odoslať neskôr.
+
+SPUSTENIE A INŠTALÁCIA DO MOBILU
+1. Súbory musia byť zverejnené cez HTTPS na internom firemnom webe alebo hostingu.
+2. Otvor adresu aplikácie v Chrome alebo Safari.
+3. Android: ponuka prehliadača → Pridať na plochu / Inštalovať aplikáciu.
+4. iPhone: Zdieľať → Pridať na plochu.
+
+SYNCHRONIZÁCIA S PC
+1. V PC aplikácii otvor Cloud a databáza.
+2. Zadaj Supabase Project URL, anon/publishable key a názov pracovného priestoru.
+3. Prihlás sa a stlač Odoslať dáta do cloudu.
+4. V mobile otvor Cloud, zadaj rovnaké údaje a prihlás sa.
+5. Stlač Načítať z PC / cloudu.
+6. Po terénnych zápisoch stlač Odoslať do PC / cloudu.
+7. V PC aplikácii načítaj cloudové dáta alebo zapni automatickú synchronizáciu.
+
+Poznámka: Pri prvom nasadení odporúčam obmedziť prístup heslom a používať samostatné účty pre stavbyvedúcich.
